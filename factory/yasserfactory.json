@@ -1,0 +1,9 @@
+{
+	"name": "yasserfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "054af377-0b2c-484b-be69-251b2e36701b",
+		"tenantId": "a2e466aa-4f86-4545-b5b8-97da7c8febf3"
+	}
+}
