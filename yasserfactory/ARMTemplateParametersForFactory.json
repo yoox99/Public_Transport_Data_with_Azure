@@ -7,6 +7,9 @@
 		},
 		"AzureDatabricks1_accessToken": {
 			"value": ""
+		},
+		"AzureDatabricks2_accessToken": {
+			"value": ""
 		}
 	}
 }
