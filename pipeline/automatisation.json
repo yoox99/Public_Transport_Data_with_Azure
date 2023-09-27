@@ -15,10 +15,10 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Repos/yaithnini.ext@simplonformations.onmicrosoft.com/Public_Transport_Data_with_Azure/batch processing"
+					"notebookPath": "/Repos/yaithnini.ext@simplonformations.onmicrosoft.com/Public_Transport_Data_with_Azure/Batch Processing"
 				},
 				"linkedServiceName": {
-					"referenceName": "AzureDatabricks1",
+					"referenceName": "AzureDatabricks2",
 					"type": "LinkedServiceReference"
 				}
 			}
